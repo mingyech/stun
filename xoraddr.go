@@ -10,7 +10,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/pion/transport/v2/utils/xor"
+	"github.com/mingyech/transport/utils/xor"
 )
 
 const (
